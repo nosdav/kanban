@@ -1,0 +1,27 @@
+{
+  "name": "nosdav-kanban",
+  "version": "0.0.0",
+  "description": "kanban",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosdav/kanban.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostdav",
+    "app"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nosdav/kanban/issues"
+  },
+  "homepage": "https://github.com/nosdav/kanban#readme",
+  "dependencies": {
+  }
+}
