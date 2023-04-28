@@ -96,8 +96,7 @@
           console.log(di[id][1].items)
           console.log(di[id][2].items)
           var pubkey = await window.nostr.getPublicKey()
-          var storage =
-            'https://nosdav.nostr.rocks/' + pubkey + '/kanban/index.html'
+          var storage = 'https://nosdav.net/' + pubkey + '/kanban/index.html'
           updateThis(id, storage)
         }, 1000)
       }
